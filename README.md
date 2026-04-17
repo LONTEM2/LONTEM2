@@ -11,11 +11,11 @@ I hold industry-standard certifications in both networking architecture and elec
 #### **Electronics & Hardware Engineering**
 I am a **Certified IPC Specialist (CIS)**, trained in the highest reliability standards for electronic assemblies.
 
-| Certification Details | Verified Status |
+| Certification Details | Verified Status & Certificate |
 | :--- | :--- |
-| **Standard:** [IPC-7711/7721 Rework, Modification and Repair of Electronic Assemblies](https://certification.electronicsu.org/Home/Validation) | **Serial No:** RRS-26041795949 |
+| **Standard:** [IPC-7711/7721 Rework, Modification and Repair](https://certification.electronicsu.org/Home/Validation) | **Serial No:** RRS-26041795949 |
 | **Institution:** Agencja Rozwoju Regionalnego SA | **Instructor:** Adrian Raszkiewicz |
-| **Certified Modules (Completed April 17, 2026):** | **Status:** Active (Valid until April 2028) |
+| **Certified Modules (Completed April 17, 2026):** | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CIS_IPC-771121C_PL_Certificate%20of%20Completion%20IPC-77117721C%20Certification_kopia.pdf)** |
 | • Through Hole Components | • Gull Wing Lead Components |
 | • Chip and MELF Components | • J-Lead Components |
 
@@ -26,7 +26,7 @@ Completed foundational training in modern network environments.
 | :--- | :---: |
 | **Course:** CCNA: Introduction to Networks | <a href="https://www.credly.com/badges/f9da6658-db3f-4f0b-acb4-85a5baa08145/public_url"><img src="https://raw.githubusercontent.com/LONTEM2/LONTEM2/main/ccna-introduction-to-networks.png" width="120" alt="Cisco Badge"></a> |
 | **Institution:** Uniwersytet Rzeszowski | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CCNA-_Introduction_to_Networks_certificate_wojewnikmichal-gmail-com_78affa1e-6958-4a3b-bb1f-00bc999cd75b.pdf)** |
-| **Completion Date:** 27 March 2026 ||
+| **Completion Date:** 27 March 2026 | |
 
 ---
 
@@ -46,4 +46,4 @@ Completed foundational training in modern network environments.
 
 ### 📫 How to reach me:
 * **Email:** wojewnikmichal@gmail.com
-* **LinkedIn:** [[My LinkedIn Profile](https://www.linkedin.com/in/michał-wojewnik-759baa35b/)]
+* **LinkedIn:** [Michał Wojewnik](https://www.linkedin.com/in/michał-wojewnik-759baa35b/)
