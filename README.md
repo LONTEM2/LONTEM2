@@ -16,8 +16,8 @@ I am a **Certified IPC Specialist (CIS)**, trained in the highest reliability st
 | **Standard:** [IPC-7711/7721 Rework, Modification and Repair](https://certification.electronicsu.org/Home/Validation) | **Serial No:** RRS-26041795949 |
 | **Institution:** Agencja Rozwoju Regionalnego SA | **Instructor:** Adrian Raszkiewicz |
 | **Certified Modules (Completed April 17, 2026):** | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CIS_IPC-771121C_PL_Certificate%20of%20Completion%20IPC-77117721C%20Certification_kopia.pdf)** |
-| • Through Hole Components | • Gull Wing Lead Components |
-| • Chip and MELF Components | • J-Lead Components |
+| • Through Hole Components [📷](https://github.com/LONTEM2/LONTEM2/blob/main/Through%20Hole%20Components.jpg) | • Gull Wing Lead Components [📷](https://github.com/LONTEM2/LONTEM2/blob/main/Gull%20Wing%20Lead%20Components.jpg) |
+| • Chip and MELF Components [📷](https://github.com/LONTEM2/LONTEM2/blob/main/example%20my%20smd.jpg) | • J-Lead Components [📷](https://github.com/LONTEM2/LONTEM2/blob/main/J-Lead%20Components.jpg) |
 
 #### **Networking & IT Infrastructure**
 Completed foundational training in modern network environments.
