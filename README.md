@@ -1,33 +1,49 @@
-## Hi there, I'm Michał! 👋
+## Hi there, I'm Michał! 👋  ![Profile Views](https://komarev.com/ghpvc/?username=LONTEM2&color=blue) 
 
-I am a **Technician Programmer** student, currently pursuing my professional qualifications in **INF.03** (Software Development) and **INF.04** (Advanced Applications). I am deeply passionate about Information Technology and constantly looking for new challenges to expand my technical horizon.
+I am a **Technician Programmer** student, currently pursuing my professional qualifications in **INF.03** (Software Development) and **INF.04** (Advanced Applications). I bridge the gap between high-level software development and high-precision hardware engineering.
 
 ---
 
 ### 🎓 Certifications & Professional Development
-I have successfully completed the first stage of the Cisco Networking Academy path, gaining foundational knowledge in network architecture and security.
+
+I hold industry-standard certifications in both networking architecture and electronics manufacturing excellence.
+
+#### **Electronics & Hardware Engineering**
+I am a **Certified IPC Specialist (CIS)**, trained in the highest reliability standards for electronic assemblies.
+
+| Certification Details | Verified Status |
+| :--- | :--- |
+| **Standard:** [IPC-7711/7721 Rework, Modification and Repair of Electronic Assemblies](https://certification.electronicsu.org/Home/Validation) | **Serial No:** RRS-26041795949 |
+| **Institution:** Agencja Rozwoju Regionalnego SA | **Instructor:** Adrian Raszkiewicz |
+| **Certified Modules (Completed April 17, 2026):** | **Status:** Active (Valid until April 2028) |
+| • Through Hole Components | • Gull Wing Lead Components |
+| • Chip and MELF Components | • J-Lead Components |
+
+#### **Networking & IT Infrastructure**
+Completed foundational training in modern network environments.
 
 | Certification Details | Verified Badge & Certificate |
 | :--- | :---: |
 | **Course:** CCNA: Introduction to Networks | <a href="https://www.credly.com/badges/f9da6658-db3f-4f0b-acb4-85a5baa08145/public_url"><img src="https://raw.githubusercontent.com/LONTEM2/LONTEM2/main/ccna-introduction-to-networks.png" width="120" alt="Cisco Badge"></a> |
-| **Institution:** Uniwersytet Rzeszowski | |
-| **Instructor:** Tadeusz Ruchlewicz | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CCNA-_Introduction_to_Networks_certificate_wojewnikmichal-gmail-com_78affa1e-6958-4a3b-bb1f-00bc999cd75b.pdf)** |
-| **Completion Date:** 27 March 2026 |  ![Profile Views](https://komarev.com/ghpvc/?username=LONTEM2&color=blue) |
+| **Institution:** Uniwersytet Rzeszowski | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CCNA-_Introduction_to_Networks_certificate_wojewnikmichal-gmail-com_78affa1e-6958-4a3b-bb1f-00bc999cd75b.pdf)** |
+| **Completion Date:** 27 March 2026 ||
 
 ---
 
 ### 🚀 Current Focus
-* **Major Project:** I am currently developing my biggest project to date — a game called **Levels**, built using **C#** 👊. 
-* **Learning:** Deepening my expertise in software development and advanced networking protocols.
+* **Major Project:** Developing **Levels** — a challenging platformer built with **C#** and Unity 👊.
+* **Hardware Mastery:** Advancing towards ESD protection and BGA diagnostics/repair.
+* **Academic:** Preparing for INF.03 & INF.04 professional exams.
 
 ---
 
 ### 🛠 Tech Stack & Skills
-* **Programming:** Preparation for INF.03 & INF.04 qualifications.
-* **Networking:** Routing & Switching essentials, IPv4/IPv6, and Cisco IOS configuration.
-* **Passion:** High-performance computing, cybersecurity, and system architecture.
+* **Software:** C#, .NET, Software Architecture (INF.03/INF.04).
+* **Hardware:** IPC-standard Soldering (SMT/THT), Rework, and Electronic Repair.
+* **Networking:** IPv4/IPv6 Routing, Cisco IOS Configuration, Network Security.
 
 ---
 
 ### 📫 How to reach me:
 * **Email:** wojewnikmichal@gmail.com
+* **LinkedIn:** [[My LinkedIn Profile](https://www.linkedin.com/in/michał-wojewnik-759baa35b/)]
