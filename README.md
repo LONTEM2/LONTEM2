@@ -1,4 +1,7 @@
 ## Hi there, I'm Michał! 👋  ![Profile Views](https://komarev.com/ghpvc/?username=LONTEM2&color=blue) 
+
+I am a **Technician Programmer** student, currently pursuing my professional qualifications in **INF.03** (Software Development) and **INF.04** (Advanced Applications). I bridge the gap between high-level software development and high-precision hardware engineering.
+
 <hr>
 <div align="center">
   <a href="https://lontem2.github.io/index.html">
@@ -7,10 +10,6 @@
 </div>
 <hr>
 
-
-I am a **Technician Programmer** student, currently pursuing my professional qualifications in **INF.03** (Software Development) and **INF.04** (Advanced Applications). I bridge the gap between high-level software development and high-precision hardware engineering.
-
----
 
 ### 🎓 Certifications & Professional Development
 
@@ -39,7 +38,7 @@ Completed foundational training in modern network environments.
 ---
 
 ### 🚀 Current Focus
-* **Major Project:** Developing **Levels** — a challenging platformer built with **C#** and Unity 👊.
+* **Major Project:** Developing **Levels** — a challenging platformer built with **C#** Godot Engine 4 👊.
 * **Hardware Mastery:** Advancing towards ESD protection and BGA diagnostics/repair.
 * **Academic:** Preparing for INF.03 & INF.04 professional exams.
 
