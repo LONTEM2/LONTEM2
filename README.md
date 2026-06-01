@@ -1,4 +1,12 @@
 ## Hi there, I'm Michał! 👋  ![Profile Views](https://komarev.com/ghpvc/?username=LONTEM2&color=blue) 
+<hr>
+<div align="center">
+  <a href="https://lontem2.github.io/index.html">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-lontem2.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Moje Portfolio">
+  </a>
+</div>
+<hr>
+
 
 I am a **Technician Programmer** student, currently pursuing my professional qualifications in **INF.03** (Software Development) and **INF.04** (Advanced Applications). I bridge the gap between high-level software development and high-precision hardware engineering.
 
