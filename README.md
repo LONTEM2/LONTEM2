@@ -47,3 +47,4 @@ Completed foundational training in modern network environments.
 ### 📫 How to reach me:
 * **Email:** wojewnikmichal@gmail.com
 * **LinkedIn:** [Michał Wojewnik](https://www.linkedin.com/in/michał-wojewnik-759baa35b/)
+* **Portfolio:** [👉 Zobacz moje projekty online 👈](https://lontem2.github.io/index.html)
