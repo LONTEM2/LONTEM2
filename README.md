@@ -1,6 +1,6 @@
 ## Hi there, I'm Michał! 👋  ![Profile Views](https://komarev.com/ghpvc/?username=LONTEM2&color=blue) 
 
-I am a **Technician Programmer** student, currently pursuing my professional qualifications in **INF.03** (Software Development) and **INF.04** (Advanced Applications). I bridge the gap between high-level software development and high-precision hardware engineering.
+I am a **Technician Programmer** student, currently pursuing my professional qualifications in **INF.03** (Software Development) and **INF.04** (Advanced Applications). I bridge the gap between high-level software development, high-precision hardware engineering, and advanced BGA rework.
 
 <hr>
 <div align="center">
@@ -20,6 +20,15 @@ I am a **Certified IPC Specialist (CIS)**, trained in the highest reliability st
 
 | Certification Details | Verified Status & Certificate |
 | :--- | :--- |
+| **Standard:** [IPC-7711/7721 Rework, Modification and Repair](https://my.electronicsu.org/static/verify_certification.html) | **Serial No:** RRS-26061098902 |
+| **Institution:** Agencja Rozwoju Regionalnego SA | **Instructor:** Łukasz Borowski |
+| **Certified Modules (Completed June 9, 2026):** | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CIS_IPC-771121C_PL_Certificate%20of%20Completion%20IPC-77117721C%20Certification.pdf)** |
+| • Core Mandatory Module (General Knowledge & Rework Standards) | **Valid Until:** June 2028 |
+
+<br>
+
+| Certification Details | Verified Status & Certificate |
+| :--- | :--- |
 | **Standard:** [IPC-7711/7721 Rework, Modification and Repair](https://certification.electronicsu.org/Home/Validation) | **Serial No:** RRS-26041795949 |
 | **Institution:** Agencja Rozwoju Regionalnego SA | **Instructor:** Adrian Raszkiewicz |
 | **Certified Modules (Completed April 17, 2026):** | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CIS_IPC-771121C_PL_Certificate%20of%20Completion%20IPC-77117721C%20Certification_kopia.pdf)** |
@@ -30,7 +39,7 @@ I am a **Certified IPC Specialist (CIS)**, trained in the highest reliability st
 Completed foundational training in modern network environments.
 
 | Certification Details | Verified Badge & Certificate |
-| :--- | :---: |
+| :--- | :--- |
 | **Course:** CCNA: Introduction to Networks | <a href="https://www.credly.com/badges/f9da6658-db3f-4f0b-acb4-85a5baa08145/public_url"><img src="https://raw.githubusercontent.com/LONTEM2/LONTEM2/main/ccna-introduction-to-networks.png" width="120" alt="Cisco Badge"></a> |
 | **Institution:** Uniwersytet Rzeszowski | **[View Full Certificate](https://github.com/LONTEM2/LONTEM2/blob/main/CCNA-_Introduction_to_Networks_certificate_wojewnikmichal-gmail-com_78affa1e-6958-4a3b-bb1f-00bc999cd75b.pdf)** |
 | **Completion Date:** 27 March 2026 | |
@@ -39,14 +48,14 @@ Completed foundational training in modern network environments.
 
 ### 🚀 Current Focus
 * **Major Project:** Developing **Levels** — a challenging platformer built with **C#** Godot Engine 4 👊.
-* **Hardware Mastery:** Advancing towards ESD protection and BGA diagnostics/repair.
+* **Hardware Mastery:** Further advancing ESD protection implementation and advanced micro-soldering diagnostics.
 * **Academic:** Preparing for INF.03 & INF.04 professional exams.
 
 ---
 
 ### 🛠 Tech Stack & Skills
 * **Software:** C#, .NET, Software Architecture (INF.03/INF.04).
-* **Hardware:** IPC-standard Soldering (SMT/THT), Rework, and Electronic Repair.
+* **Hardware:** IPC-standard Soldering (SMT/THT), BGA Rework & Diagnostics, PCB Repair.
 * **Networking:** IPv4/IPv6 Routing, Cisco IOS Configuration, Network Security.
 
 ---
