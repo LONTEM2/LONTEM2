@@ -5,7 +5,7 @@ I am a **Technician Programmer** student, currently pursuing my professional qua
 <hr>
 <div align="center">
   <a href="https://wojewnik.pl/index.html">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-lontem2.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Moje Portfolio">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-wojewnik.pl-blue?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Moje Portfolio">
   </a>
 </div>
 <hr>
