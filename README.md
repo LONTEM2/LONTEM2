@@ -4,7 +4,7 @@ I am a **Technician Programmer** student, currently pursuing my professional qua
 
 <hr>
 <div align="center">
-  <a href="https://wojewnik.pl/index.html">
+  <a href="https://wojewnik.eu/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-wojewnik.pl-blue?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Moje Portfolio">
   </a>
 </div>
@@ -63,4 +63,4 @@ Completed foundational training in modern network environments.
 ### 📫 How to reach me:
 * **Email:** wojewnikmichal@gmail.com
 * **LinkedIn:** [Michał Wojewnik](https://www.linkedin.com/in/michał-wojewnik-759baa35b/)
-* **Portfolio:** [👉 View my projects online  👈](https://lontem2.github.io/index.html)
+* **Portfolio:** [👉 View my projects online  👈](https://wojewnik.eu)
